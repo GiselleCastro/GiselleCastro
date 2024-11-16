@@ -1,7 +1,4 @@
-# Giselle Castro
-
-## Work History 
-| January/2023 - September/2024 | **Full Stack Developer at Catho Online**
+# . Giselle Castro [![Giselle](https://img.icons8.com/?size=36&id=13930&format=png&color=000000)](https://www.linkedin.com/in/gisellesc/)
 
 ## Skills
           
